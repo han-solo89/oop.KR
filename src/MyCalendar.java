@@ -72,9 +72,7 @@ public class MyCalendar {
                 case 2 -> {
  //todo:
                 }
-                case 3 -> {
- //todo
-                }
+
             }
         } catch (WrongInputException e) {
             System.out.println(e.getMessage());
